@@ -15,7 +15,7 @@ print(10 % 7)
 print(50* "_")
 
 number1 = input("please enter the first number")
-option = str(input("please use one og the following methods +, -, / or *"))
+option = str(input("please use one og the following methods +, -, / or *:"))
 number2 = input("please enter the second number")
 
 if option == "+":
